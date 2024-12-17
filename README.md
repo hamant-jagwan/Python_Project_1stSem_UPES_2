@@ -2,6 +2,11 @@
 
 This project involves developing a simple calculator with a graphical user interface (GUI) using Python's `tkinter` library. The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+## Screenshot 
+
+### ![Calculator Screenshot](H:\1st_sem_Python_Project\Project_2\Screenshot 2024-12-17 164436.png)
+
+
 ## Features
 
 - Addition, Subtraction, Multiplication, and Division
@@ -34,7 +39,7 @@ This project involves developing a simple calculator with a graphical user inter
 6. **Running the Application:**
    The `mainloop()` method is used to run the application, displaying the calculator GUI.
 
-   
+
 
 
 
